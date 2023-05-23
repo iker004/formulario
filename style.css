@@ -1,0 +1,17 @@
+body {
+  background-image: url('https://fondosmil.com/fondo/35152.jpg');
+  background-size: cover;
+}
+
+.custom-form {
+  border-radius: 4px;
+  background-color: #D2691E;
+}
+
+.custom-form .form-label {
+  font-size: 30px;
+}
+
+.custom-form .form-group label {
+  font-size: 30px;
+}
